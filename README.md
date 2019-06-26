@@ -6,4 +6,4 @@ An app that helps you relax by playing 6 different soothing music.
 
 'activity_main.xml' is the layout of the app. [<yourDrive>:\Soothe\app\src\main\res\layout\<activity_main.xml>]
  
- Place the 'drawable' and 'raw' folders in [<yourDrive>:\Soothe\app\src\main\res\<here>]
+ Place the 'drawable' and 'raw' folders in [<yourDrive>:\Soothe\app\src\main\res\\<here>]
